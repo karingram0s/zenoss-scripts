@@ -1,3 +1,5 @@
+### `changeDeviceClass.py`
+
 #### Usage
 
 This script will ask for a file containing the device names and/or IP addresses and the device class to change those devices into. The file must contain the device names/IP addresses in a single column. For each device this script will print its device ID, IP address, production state, and former device class before changing it. 
